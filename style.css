@@ -49,13 +49,12 @@ p {
   aspect-ratio: 16/9;
 }
 
-.muda-image {
-  width: 100%;
-  height: 300px; /* ajuste a altura da imagem */
-  background-size: cover;
-  background-position: center;
-  transition: background-image 0.5s ease-in-out;
-}
+.muda-image:hover { /* Mude a imagem quando o usuário passar o mouse por cima */ 
+  background-image: url('img/danoninho3'); } 
+.muda-image { /* Set the initial image */
+   background-image: url('img/danoninho1'); }
+ .muda-image:hover { /* Change the image on hover */
+   background-image: url('img/danoninho3'); }
 
 .muda-image:hover {
   background-image: url('img/danoninho3.jpg');
