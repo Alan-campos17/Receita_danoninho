@@ -7,6 +7,8 @@ body {
   background-color: rgb(0, 0, 0);
   padding: 0%;
   margin: 0%;
+  border: 10px solid #000; /* adiciona uma borda preta */
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.5); /* adiciona um efeito de sombra */
   animation: led 2s infinite; /* adiciona uma animação */
 }
 
