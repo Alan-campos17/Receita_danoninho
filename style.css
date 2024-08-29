@@ -44,4 +44,7 @@ p{
     /* Change the image on hover */
     background-image: url('img/danoninho3');
   }
-  
+    img{
+       width: 50px;
+       
+    }
