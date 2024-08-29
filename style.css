@@ -53,13 +53,19 @@ p {
   background-image: url('img/danoninho3'); } 
   
 .muda-image { /* Set the initial image */
-   background-image: url('img/danoninho1'); }
+   background-image: url('img/danoninho1');
+   border: 10px solid #000; /* adiciona uma borda preta */
+   box-shadow: 0 0 10px rgba(255, 255, 255, 0.5); /* adiciona um efeito de sombra */
+ }
+  
 
  .muda-image:hover { /* Change the image on hover */
    background-image: url('img/danoninho3'); }
 
 .muda-image:hover {
   background-image: url('img/danoninho3');
+  border-color: #FF0000; /* muda a cor da borda para vermelho quando hover */
+  box-shadow: 0 0 10px rgba(255, 0, 0, 0.5); /* muda a cor da sombra para vermelho quando hover */
 }
 
 .titulo {
