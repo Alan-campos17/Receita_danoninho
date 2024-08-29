@@ -1,55 +1,57 @@
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&display=swap');
 
-body{
-background-color: black;
-padding: 0%;
-margin: 0%;
+body {
+  background-color: black;
+  padding: 0%;
+  margin: 0%;
 }
 
-h1{
-    text-align: center;
-    background-color: blueviolet;
-    color: aliceblue;
-}
-h2{
-    color: aliceblue;
+h1 {
+  text-align: center;
+  background-color: blueviolet;
+  color: aliceblue;
 }
 
-li{
-    color: blueviolet;
+h2 {
+  color: aliceblue;
 }
-p{
-    color: blueviolet;
+
+li {
+  color: blueviolet;
+}
+
+p {
+  color: blueviolet;
 }
 
 .muda-image {
-    /* Posicione a imagem à direita */
-    float: right;
-    /* Defina o tamanho médio da imagem */
-    width: 50%;
-    height: auto;
-    /* Mantenha a proporção da imagem */
-    aspect-ratio: 16/9;
-  }
-  
-  .muda-image:hover {
-    /* Mude a imagem quando o usuário passar o mouse por cima */
-    background-image: url('img/danoninho3');
+  /* Posicione a imagem à direita */
+  float: right;
+  /* Defina o tamanho médio da imagem */
+  width: 50%;
+  height: auto;
+  /* Mantenha a proporção da imagem */
+  aspect-ratio: 16/9;
+}
 
-  }
+.muda-image:hover {
+  /* Mude a imagem quando o usuário passar o mouse por cima */
+  background-image: url('img/danoninho3');
 
-  .muda-image {
-    /* Set the initial image */
-    background-image: url('img/danoninho1');
-  }
-  
-  .muda-image:hover {
-    /* Change the image on hover */
-    background-image: url('img/danoninho3');
-  }
+}
 
-  .texto {
-    font-family: "Bungee Tint", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-  }
+.muda-image {
+  /* Set the initial image */
+  background-image: url('img/danoninho1');
+}
+
+.muda-image:hover {
+  /* Change the image on hover */
+  background-image: url('img/danoninho3');
+}
+
+.titulo {
+  font-family: "Bungee Tint", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
