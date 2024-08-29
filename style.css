@@ -20,7 +20,7 @@ p{
     color: blueviolet;
 }
 
-.hover-image {
+.muda-image {
     /* Posicione a imagem à direita */
     float: right;
     /* Defina o tamanho médio da imagem */
@@ -30,17 +30,17 @@ p{
     aspect-ratio: 16/9;
   }
   
-  .hover-image:hover {
+  .muda-image:hover {
     /* Mude a imagem quando o usuário passar o mouse por cima */
     background-image: url('img/danoninho2/danoninho3');
   }
 
-  .hover-image {
+  .muda-image {
     /* Set the initial image */
     background-image: url('img/danoninho2/danoninho1');
   }
   
-  .hover-image:hover {
+  .muda-image:hover {
     /* Change the image on hover */
-    background-image: url('img/danoninho2/danoninho3');
+    background-image: url('img/danoninho2/');
   }
