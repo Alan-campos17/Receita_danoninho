@@ -50,16 +50,16 @@ p {
 }
 
 .muda-image:hover { /* Mude a imagem quando o usuário passar o mouse por cima */ 
-  background-image: url('img/danoninho1'); } 
+  background-image: url('img/danoninho3'); } 
   
 .muda-image { /* Set the initial image */
-   background-image: url('img/danoninho3'); }
+   background-image: url('img/danoninho1'); }
 
  .muda-image:hover { /* Change the image on hover */
    background-image: url('img/danoninho3'); }
 
 .muda-image:hover {
-  background-image: url('img/danoninho3.jpg');
+  background-image: url('img/danoninho3');
 }
 
 .titulo {
