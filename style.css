@@ -19,3 +19,20 @@ li{
 p{
     color: blueviolet;
 }
+
+.hover-image {
+    /* Posicione a imagem à direita */
+    float: right;
+    /* Defina o tamanho médio da imagem */
+    width: 50%;
+    height: auto;
+    /* Mantenha a proporção da imagem */
+    aspect-ratio: 16/9;
+  }
+  
+  .hover-image:hover {
+    /* Mude a imagem quando o usuário passar o mouse por cima */
+    background-image: url('image2.jpg');
+  }
+
+  
