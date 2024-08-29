@@ -56,7 +56,19 @@ p {
    background-image: url('img/danoninho1');
    border: 10px solid #000; /* adiciona uma borda preta */
    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5); /* adiciona um efeito de sombra */
+   animation: led 2s infinite; /* adiciona uma animação */
  }
+ @keyframes led {
+  0% {
+    border-color: #FF0000;
+  }
+  50% {
+    border-color: #00FF00;
+  }
+  100% {
+    border-color: #0000FF;
+  }
+}
   
 
  .muda-image:hover { /* Change the image on hover */
