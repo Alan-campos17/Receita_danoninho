@@ -25,19 +25,17 @@ li {
 
 p {
   color: blueviolet;
-  silkscreen-regular {
+  silkscreen-regular
     font-family: "Silkscreen", sans-serif;
     font-weight: 400;
     font-style: normal;
-  }
   
-  .silkscreen-bold {
+  .silkscreen-bold 
     font-family: "Silkscreen", sans-serif;
     font-weight: 700;
     font-style: normal;
-  }
   
-}
+  
 
 .muda-image {
   /* Posicione a imagem à direita */
