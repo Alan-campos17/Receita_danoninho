@@ -32,15 +32,15 @@ p{
   
   .hover-image:hover {
     /* Mude a imagem quando o usuário passar o mouse por cima */
-    background-image: url('image2.jpg');
+    background-image: url('img/danoninho2/danoninho3');
   }
 
   .hover-image {
     /* Set the initial image */
-    background-image: url('image1.jpg');
+    background-image: url('img/danoninho2/danoninho1');
   }
   
   .hover-image:hover {
     /* Change the image on hover */
-    background-image: url('image2.jpg');
+    background-image: url('img/danoninho2/danoninho3');
   }
