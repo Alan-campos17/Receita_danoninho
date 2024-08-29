@@ -33,7 +33,7 @@ p{
   .muda-image:hover {
     /* Mude a imagem quando o usuário passar o mouse por cima */
     background-image: url('img/danoninho3');
-    transition-duration: 0,5;
+
   }
 
   .muda-image {
@@ -45,7 +45,3 @@ p{
     /* Change the image on hover */
     background-image: url('img/danoninho3');
   }
-    img{
-       width: 50px;
-
-    }
