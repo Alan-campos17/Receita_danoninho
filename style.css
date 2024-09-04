@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Permanent+Marker&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Permanent+Marker&family=Silkscreen:wght@400;700&display=swap');
+
 
 
 body {
@@ -90,19 +89,19 @@ p {
 }
 
 .titulo2 {
-    font-family: "Permanent Marker", cursive;
+   
     font-weight: 400;
     font-style: normal;
   }
 
 .titulo3{
-  font-family: "Permanent Marker", cursive;
+ 
   font-weight: 400;
   font-style: normal;
 }
 
 .titulo4{
-  font-family: "Permanent Marker", cursive;
+ 
   font-weight: 400;
   font-style: normal;
 }
