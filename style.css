@@ -75,10 +75,10 @@ p {
   
 
  .muda-image:hover { /* Change the image on hover */
-   background-image: url('img/danoninho3'); }
+   background-image: url('img/danoninho2.jpg'); }
 
 .muda-image:hover {
-  background-image: url('img/danoninho3');
+  background-image: url('img/danoninho2.jpg');
   border-color: #FF0000; /* muda a cor da borda para vermelho quando hover */
   box-shadow: 0 0 10px rgba(255, 0, 0, 0.5); /* muda a cor da sombra para vermelho quando hover */
 }
